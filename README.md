@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhinav-232003
-- 👀 I’m interested in to deal with data and learn something new about technologies
-- 🌱 I’m currently learning Data analysis
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Data analysis and Data Visualisation
 - 💞️ I’m looking to collaborate on data analysis and data visuaisation
 - 📫 How to reach me abhinavgoyal179@gmail.com
 
